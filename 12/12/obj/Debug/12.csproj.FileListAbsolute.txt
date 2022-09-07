@@ -1,0 +1,8 @@
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\obj\Debug\12.csproj.AssemblyReference.cache
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\obj\Debug\12.csproj.SuggestedBindingRedirects.cache
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\bin\Debug\12.exe.config
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\bin\Debug\12.exe
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\bin\Debug\12.pdb
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\obj\Debug\12.exe
+C:\Users\adam.hamagareb\Documents\C#\Övningar\12\12\obj\Debug\12.pdb
