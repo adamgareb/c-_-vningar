@@ -1,8 +1,0 @@
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\bin\Debug\15.exe.config
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\bin\Debug\15.exe
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\bin\Debug\15.pdb
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\obj\Debug\15.csproj.AssemblyReference.cache
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\obj\Debug\15.exe
-C:\Users\adam.hamagareb\Documents\C#\Övningar\15\15\obj\Debug\15.pdb
